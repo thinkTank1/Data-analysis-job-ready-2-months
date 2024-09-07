@@ -23,8 +23,10 @@ Welcome to the Data Analysis Bootcamp! This comprehensive course is designed to 
 ## 1. Introduction to Data Analysis
 
 ### Level 1: What is Data Analysis?
-**Video Tutorial:** [Introduction to Data Analysis](https://www.youtube.com/watch?v=ua-CiDNNj30)  
-**Reading:** [What is Data Analysis?](https://www.ibm.com/analytics/data-analysis)  
+**Video Tutorial 1:** [Introduction to Data Analysis](https://www.youtube.com/watch?v=yZvFH7B6gKI)
+**Video Tutorial 2:** [Introduction to Data Analysis](https://www.youtube.com/watch?v=yZvFH7B6gKI)
+**Video Tutorial 3:** [Introduction to Data Analysis](https://www.youtube.com/watch?v=5fHUbmRphPM)
+**Reading:** [What is Data Analysis?](https://www.fullstory.com/blog/what-is-data-processing/)  
 **Tasks:**
 1. Write a 300-word essay on how data analysis could be applied in your current field (science/health).
    - Step 1: Brainstorm ideas about how data is used in science or health.
@@ -41,7 +43,7 @@ Welcome to the Data Analysis Bootcamp! This comprehensive course is designed to 
    - Step 5: Create a neat table with the job titles and their responsibilities.
 
 ### Level 2: Who are Data Analysts?
-**Video Tutorial:** [A Day in the Life of a Data Analyst](https://www.youtube.com/watch?v=UhY9oqV9GnA)  
+**Video Tutorial:** [A Day in the Life of a Data Analyst](https://www.youtube.com/watch?v=uSTtLpstV-o)  
 **Tasks:**
 1. Research and list 5 companies in your area that hire data analysts. Note the required qualifications for each job posting.
    - Step 1: Use a job search website like Indeed or LinkedIn to search for "Data Analyst" jobs in your area.
@@ -55,8 +57,10 @@ Welcome to the Data Analysis Bootcamp! This comprehensive course is designed to 
 ## 2. Understanding Data Sources
 
 ### Level 3: Types of Data
-**Video Tutorial:** [Types of Data in Statistics](https://www.youtube.com/watch?v=5AuMrUcCIsU)  
-**Reading:** [Types of Data](https://www.data.gov/)  
+**Video Tutorial 1:** [Types of Data in Statistics](https://www.youtube.com/watch?v=2zSYAlonQIQ)
+**Video Tutorial 2:** [Types of Data in Statistics](https://www.youtube.com/watch?v=LuBD49SFpWs)
+**Video Tutorial 3:** [Types of Data in Statistics](https://www.youtube.com/watch?v=5Yh-9xdJzAs)  
+**Reading:** [Types of Data](https://builtin.com/data-science/data-types-statistics)  
 **Tasks:**
 1. Identify 10 different types of data you encounter in your daily life and categorize them according to the types learned.
    - Step 1: Make a list of 10 pieces of information you use or see every day.
@@ -66,7 +70,12 @@ Welcome to the Data Analysis Bootcamp! This comprehensive course is designed to 
    - Step 5: Check your answers with a parent or teacher.
 
 ### Level 4: Data Sources in Organizations
-**Video Tutorial:** [Data Sources for Business Analytics](https://www.youtube.com/watch?v=9VKoGtglJI0)  
+**Video Tutorial 1:** [Data Sources for Business Analytics](https://www.youtube.com/watch?v=NnzRXnp51RM)
+**Video Tutorial 2:** [Data Sources for Business Analytics](https://www.youtube.com/watch?v=_GOyy6ydDZw)
+**Video Tutorial 3:** [Data Sources for Business Analytics](https://www.youtube.com/watch?v=lJ1SbMWFpGs)
+**Video Tutorial 4:** [Data Sources for Business Analytics](https://www.youtube.com/watch?v=NbE0UFuOPgg)
+**Video Tutorial 4:** [Data Sources for Business Analytics](https://www.youtube.com/watch?v=_YX89ZO0wpE)
+
 **Tasks:**
 1. Choose a company and research its potential data sources. Create a mind map of these sources using a free tool like [MindMeister](https://www.mindmeister.com/).
    - Step 1: Pick a company you like (e.g., Netflix, Nike, or a local business).
@@ -434,7 +443,11 @@ Example pseudocode:
 ---
 
 ## 10. Additional Resources
-
+- **Sample Datasets**
+  - [How to find sample datasets for your projects](https://www.youtube.com/watch?v=PExdWWcxmro)
+- **Complete Data Analysis Course**
+  - [IBM Data Analysis](https://www.youtube.com/watch?v=1PAy6d16ADQ)
+  - [Shorter Course](https://www.youtube.com/watch?v=_Dcmk9mEP9s)
 - **Books:**
   - "Data Science for Business" by Provost & Fawcett
   - "Python for Data Analysis" by Wes McKinney
