@@ -74,7 +74,7 @@ Welcome to the Data Analysis Bootcamp! This comprehensive course is designed to 
 **Video Tutorial 2:** [Data Sources for Business Analytics](https://www.youtube.com/watch?v=_GOyy6ydDZw)
 **Video Tutorial 3:** [Data Sources for Business Analytics](https://www.youtube.com/watch?v=lJ1SbMWFpGs)
 **Video Tutorial 4:** [Data Sources for Business Analytics](https://www.youtube.com/watch?v=NbE0UFuOPgg)
-**Video Tutorial 4:** [Data Sources for Business Analytics](https://www.youtube.com/watch?v=_YX89ZO0wpE)
+**Video Tutorial 5:** [Data Sources for Business Analytics](https://www.youtube.com/watch?v=_YX89ZO0wpE)
 
 **Tasks:**
 1. Choose a company and research its potential data sources. Create a mind map of these sources using a free tool like [MindMeister](https://www.mindmeister.com/).
@@ -91,9 +91,10 @@ Welcome to the Data Analysis Bootcamp! This comprehensive course is designed to 
 ## 3. Excel for Data Analysis
 
 ### Level 5: Excel Basics
-**Video Tutorial:** [Excel Tutorial for Beginners](https://www.youtube.com/watch?v=rwbho0CgEAE)  
+**Video Tutorial:** [Complete Excel Tutorial for Beginners](https://www.youtube.com/watch?v=Vl0H-qTclOg)
+**Video Tutorial:** [Short Excel Tutorial for Beginners](https://www.youtube.com/watch?v=rwbho0CgEAE)  
 **Tasks:**
-1. Download [this Excel file](https://github.com/your-repo/excel-basics-task.xlsx) containing raw sales data. Format the data, use basic formulas to calculate totals, and apply conditional formatting to highlight top performers.
+1. Follow the instructions on this page and Download [the Excel file]([https://github.com/your-repo/excel-basics-task.xlsx](https://www.contextures.com/excelsampledatafoodsales.html#download)) containing raw sales data. Format the data, use basic formulas to calculate totals, and apply conditional formatting to highlight top performers.
    - Step 1: Open the downloaded Excel file.
    - Step 2: Format the headers by making them bold and adding a background color.
    - Step 3: Use the SUM function to calculate total sales for each product.
@@ -103,7 +104,7 @@ Welcome to the Data Analysis Bootcamp! This comprehensive course is designed to 
    - Step 7: Save your work.
 
 ### Level 6: Advanced Excel for Data Analysis
-**Video Tutorial:** [Advanced Excel for Data Analysis](https://www.youtube.com/watch?v=YBtfVIuTEe0)  
+**Video Tutorial:** [Advanced Excel for Data Analysis](https://www.youtube.com/watch?v=qrbf9DtR3_c)  
 **Tasks:**
 1. Create a pivot table to summarize sales by region and product. Then, create a pivot chart to visualize this data.
    - Step 1: Select all your data in the Excel sheet.
@@ -120,7 +121,8 @@ Welcome to the Data Analysis Bootcamp! This comprehensive course is designed to 
 ## 4. SQL for Data Analysis
 
 ### Level 7: Introduction to SQL
-**Video Tutorial:** [SQL Tutorial for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)  
+**Video Tutorial:** [SQL Tutorial for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+**Video Tutorial:** [SQL Tutorial for Beginners](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 **Step-by-Step Guide:**
 1. Download and install MySQL Community Server from [here](https://dev.mysql.com/downloads/mysql/).
    - Step 1: Go to the MySQL download page.
@@ -193,7 +195,7 @@ Welcome to the Data Analysis Bootcamp! This comprehensive course is designed to 
    - Step 2: Run the query and examine the results.
 
 ### Level 8: Advanced SQL for Data Analysis
-**Video Tutorial:** [Advanced SQL Tutorial](https://www.youtube.com/watch?v=2Fn0WAyZV0E)  
+**Video Tutorial:** [Advanced SQL Tutorial](https://www.youtube.com/watch?v=7mz73uXD9DA)  
 **Tasks:**
 1. Practice joins, aggregate functions, and subqueries using the "store" database.
    - Step 1: Write a query to find the average price of products in each category:
@@ -397,12 +399,15 @@ Example pseudocode:
 ## 7. Interview Preparation
 
 ### Level 14: Resume Building
-**Video Tutorial:** [How to Write a Data Analyst Resume](https://www.youtube.com/watch?v=KdJXv3PgrhY)  
+**Video Tutorial:** [How to Write a Data Analyst Resume](https://www.youtube.com/watch?v=iII7vvYRxHE)  
 **Tasks:**
 1. Create a data analyst resume using the skills and projects you've completed. Use a template from [Resume.io](https://resume.io/) for professional formatting.
 
 ### Level 15: Interview Skills
-**Video Tutorial:** [Data Analyst Interview Questions and Answers](https://www.youtube.com/watch?v=fBkTq2Qomlw)  
+**Video Tutorial 1:** [Data Analyst Interview Questions and Answers](https://www.youtube.com/watch?v=s762ODy40Vo)
+**Video Tutorial 2:** [Data Analyst Interview Questions and Answers](https://www.youtube.com/watch?v=BwFJRVxZjDs)
+**Video Tutorial 3:** [Data Analyst Interview Questions and Answers](https://www.youtube.com/watch?v=LWPEH5rUAoE)
+**Video Tutorial 4:** [Data Analyst Interview Questions and Answers](https://www.youtube.com/watch?v=27qF_mCuP0o)
 **Tasks:**
 1. Prepare answers to common interview questions and practice them. Record yourself answering and review the responses.
 
@@ -411,12 +416,15 @@ Example pseudocode:
 ## 8. Professional Development for Data Analysts
 
 ### Level 16: Analytical Thinking
-**Video Tutorial:** [Analytical Thinking for Data Analysis](https://www.youtube.com/watch?v=0M7agWPa3qY)  
+**Video Tutorial 1:** [Analytical Thinking for Data Analysis](https://www.youtube.com/watch?v=kWZEXXd2tZA&t=24s)
+**Video Tutorial 2:** [Analytical Thinking for Data Analysis](https://www.youtube.com/watch?v=CRVgnpda6Y8)
+**Video Tutorial 3:** [Analytical Thinking for Data Analysis](https://www.youtube.com/watch?v=fc49PIaodF0)
 **Tasks:**
 1. Apply the 5 Whys technique to analyze a current event or issue in your field.
 
 ### Level 17: Data Ethics and Best Practices
-**Video Tutorial:** [Ethics in Data Analysis](https://www.youtube.com/watch?v=5Uh1KB9KYe0)  
+**Video Tutorial 1:** [Ethics in Data Analysis](https://www.youtube.com/watch?v=gLHMhCtxEYE)
+**Video Tutorial 2:** [Ethics in Data Analysis](https://www.youtube.com/watch?v=uacEKkhdh8c)
 **Tasks:**
 1. Write a 500-word essay on the ethical implications of using personal health data for analysis. Include potential benefits and risks.
 
